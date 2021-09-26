@@ -1,3 +1,3 @@
-module github.com/gohandson/gacha-ja
+module github.com/yuki5664/gacha-ja
 
-go 1.15
+go 1.17
